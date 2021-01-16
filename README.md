@@ -2,6 +2,7 @@ My Profile
 ===========
 
 ## About me: live in Russia, know English language, making shitty codes.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazywire&label=Profile%20views&color=a90eb4&style=flat" alt="lazywire" /> </p>
 
 ------
@@ -15,6 +16,7 @@ My Profile
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandr16&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![CurrencyData](https://github-readme-stats.vercel.app/api/pin/?username=LazyWire&repo=currencydataapp&cache_seconds=86400&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 ------
 Contact: 
 
