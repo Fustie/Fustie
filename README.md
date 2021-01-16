@@ -1,7 +1,7 @@
 My Profile
 ===========
 
-About me: live in Russia, know English language, making shitty codes.
+## About me: live in Russia, know English language, making shitty codes.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
