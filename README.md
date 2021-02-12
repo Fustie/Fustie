@@ -13,6 +13,7 @@ My Profile
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandr16&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 ------
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Fustie)](https://github.com/anuraghazra/github-readme-stats)
 Contact: 
 
 **Discord** - Fustie#4360
