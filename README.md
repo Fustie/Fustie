@@ -23,9 +23,7 @@ Contact:
 
 **Discord** - Fustie#4360
 
-**Email** - fluidspam@rivergrad.xyz
-
-**Personal Website** - https://rivergrad.xyz
+**Email** - closed for unknown time
 
 ------
 
