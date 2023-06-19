@@ -14,7 +14,7 @@
 
 <details><summary><strong>Some information about what I do</strong></summary><p>
 - 📚 I'm currently learning:
-  - **Game development**
+  - **Game development:**
     - **Unreal Engine 5**
     - **Blender**
     - **PHP**
