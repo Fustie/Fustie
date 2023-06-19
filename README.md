@@ -1,4 +1,4 @@
-## <center> Hi, this is my profile! <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> </center> 
+<h3 align="center"> Hi, this is my profile! <img src="https://raw.githubusercontent.com/Fustie/Fustie/master/wave.gif" width="25px"> </h3> 
 
 ------
 
@@ -34,7 +34,7 @@
   - **[Instagram](https://instagram.com/)** -->
   - **[Last.fm](https://last.fm/user/AJIEXCoffee)**
   <!-- - **[Code::Stats](https://codestats.net/users/)** -->
-  - **[Shikimori]([https://shikimori.one/SecondThundeR](https://shikimori.me/Fustie))**
+  - **[Shikimori]([https://shikimori.one/SecondThundeR](https://shikimori.me/Fustie)**
   - **[Discord](https://discord.com/users/270094292205305857)**
 
 - 📫 The best way you can reach me:
