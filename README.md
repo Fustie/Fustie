@@ -36,7 +36,7 @@
   - **[Instagram](https://instagram.com/)** -->
   - **[Last.fm](https://last.fm/user/AJIEXCoffee)**
   <!-- - **[Code::Stats](https://codestats.net/users/)** -->
-  - **[Shikimori]([https://shikimori.one/SecondThundeR](https://shikimori.me/Fustie)**
+  - **[Shikimori](https://shikimori.me/Fustie)**
   - **[Discord](https://discord.com/users/270094292205305857)**
 
 - 📫 The best way you can reach me:
