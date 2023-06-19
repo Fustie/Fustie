@@ -35,7 +35,7 @@
   <!-- - **[Twitter](https://twitter.com/)**
   - **[Instagram](https://instagram.com/)** -->
   - **[Last.fm](https://last.fm/user/AJIEXCoffee)**
-  <!-- - **[Code::Stats](https://codestats.net/users/)** -->
+  - **[Code::Stats](https://codestats.net/users/Fustie)**
   - **[Shikimori](https://shikimori.me/Fustie)**
   - **[Discord](https://discord.com/users/270094292205305857)**
 
