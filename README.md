@@ -3,7 +3,7 @@
 ------
 
 <details><summary><strong>About me</strong></summary><p>
-  
+ aa 
 - 🙋‍♂️ My name is Alexander (Александр)
 - 🏠 I'm currently living in **Nefteyugansk, Russia**
 - 🗣 My main language is Russian, but in most cases, I'm trying to use **English**
@@ -13,6 +13,7 @@
 </p></details>
 
 <details><summary><strong>Some information about what I do</strong></summary><p>
+
 - 📚 I'm currently learning:
   - **Game development:**
     - **Unreal Engine 5**
@@ -24,6 +25,7 @@
   - **JavaScript**
   - **JavaScript Things:**
     - **TypeScript**
+
 </p></details>
 
 <details><summary><strong>Some info on how to contact me</strong></summary><p>
