@@ -17,7 +17,7 @@
   - **Game development**
     - **Unreal Engine 5**
     - **Blender**
-  - **PHP**
+    - **PHP**
 - 🏆 I've currently finished learning:
    - **[Basics] Java/SQL/Python/PHP**
 - 🌱 I want to learn in future:
