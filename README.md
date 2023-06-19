@@ -3,7 +3,7 @@
 ------
 
 <details><summary><strong>About me</strong></summary><p>
- aa 
+
 - 🙋‍♂️ My name is Alexander (Александр)
 - 🏠 I'm currently living in **Nefteyugansk, Russia**
 - 🗣 My main language is Russian, but in most cases, I'm trying to use **English**
