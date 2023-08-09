@@ -15,6 +15,8 @@
 <details><summary><strong>Some information about what I do</strong></summary><p>
 
 - 📚 I'm currently learning:
+  - **Languages:** <!-- Perhaps this section will be made into a separate closed list -->
+    - Japanese
   - **Game development:**
     - **Unreal Engine 5**
     - **Blender**
